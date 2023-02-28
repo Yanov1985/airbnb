@@ -10,7 +10,7 @@ function Home({ exploreData, cardsData }) {
 	return (
 		<div>
 			<Head>
-				<title>ПРИВЕТ МИР!!!</title>
+				<title>ПРИВЕТ МАКС!!!</title>
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
